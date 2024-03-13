@@ -14,3 +14,9 @@ podstawa = 6
 wysokosc = 8
 pole_tr = 0.5 * podstawa * wysokosc
 print("Pole trójkąta wynosi: "+str(pole_tr))
+
+#koło
+pi = 3.14
+promien = 7
+pole_ko = pi * (promien * promien)
+print("Pole koła wynosi: "+str(pole_ko))
